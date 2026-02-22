@@ -1,0 +1,8 @@
+{
+  "buildCommand": "next build",
+  "outputDirectory": "out",
+  "framework": "nextjs",
+  "rewrites": [
+    { "source": "/dashboard", "destination": "/dashboard" }
+  ]
+}
